@@ -2,7 +2,7 @@
   "title": "号外NETエリアマップ",
   "description": "号外NETのエリアをマッピングしました。自分の地域のエリアはあるかな?\n「Geolonia PWAマップ」",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
+  "logo_image_url": "https://goguynet.github.io/activeareamap/line_tear.svg",
+  "background_image_url": "https://goguynet.github.io/activeareamap/higayodosky1980.jpg",
   "primary_color": "#d2691e"
 }
